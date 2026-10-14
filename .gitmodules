@@ -1,3 +1,6 @@
 [submodule "odin-recipes"]
 	path = odin-recipes
 	url = git@github.com:Kento24-cpu/odin-recipes.git
+[submodule "top-javascript-exercises"]
+	path = top-javascript-exercises
+	url = git@github.com:Kento24-cpu/top-javascript-exercises.git

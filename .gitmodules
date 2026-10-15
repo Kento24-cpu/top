@@ -4,3 +4,9 @@
 [submodule "top-javascript-exercises"]
 	path = top-javascript-exercises
 	url = git@github.com:Kento24-cpu/top-javascript-exercises.git
+[submodule "rock-paper-scissors"]
+	path = rock-paper-scissors
+	url = git@github.com:Kento24-cpu/rock-paper-scissors.git
+[submodule "odin-landing-page"]
+	path = odin-landing-page
+	url = git@github.com:Kento24-cpu/odin-landing-page.git
